@@ -1,4 +1,4 @@
-package com.akropon.projectEuler.Problem7;
+package com.akropon.projectEuler.problem7;
 
 import com.akropon.projectEuler.utils.PrimesHelper;
 import com.sun.javafx.collections.ImmutableObservableList;
